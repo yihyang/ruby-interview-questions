@@ -9,3 +9,6 @@
 - Separate the output to 2 groups: "palindrome" and "not_palindrome"
 
 - Output the result on console
+
+## Notes
+- You should ignore all the punctuations. Example, "Was it a cat I saw?" is considered as a palindrome.
