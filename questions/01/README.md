@@ -11,4 +11,8 @@
 - Output the result on console
 
 ## Notes
-- You should ignore all the punctuations. Example, "Was it a cat I saw?" is considered as a palindrome.
+- You should ignore all the differences between capital letters and non-capital letters.
+
+- You should ignore all the punctuations.
+
+- Example, "Was it a cat I saw?" is considered as a palindrome.
